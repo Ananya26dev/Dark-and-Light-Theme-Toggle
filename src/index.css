@@ -1,0 +1,13 @@
+:root{
+  --body_background:white;
+}
+ 
+[data-theme="dark"] {
+  --body_background:#282c34;
+}
+ 
+*
+{
+  transition: all 0.3s ease-in-out;
+}
+ 
